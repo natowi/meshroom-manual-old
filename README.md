@@ -8,19 +8,7 @@
 
 # About
 
-**This is documentation is work in progress. Do not expect a polished document at this stage.**
-
-See [Project ToDo](https://github.com/natowi/meshroom_doc/projects/1) for details. Please do not fork at the moment, unless you would like to contribute.
-
-I am new to ReStructuredText and open to suggestions.
-
-# Next update
-The next big update is planned for October 2019
-+ capturing images for photogrammetry chapters
-+ MR2019.2 updates
-+ improved layout
-+ new pdf release
-+ preperation for readthedocs release
+**This Repository moved to https://github.com/alicevision/meshroom-manual**
 
 # How to contribute
 
